@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealMoney Alerts</string>
+    <string name="sender_name_hint">Enter sender name</string>
+    <string name="amount_hint">0.00</string>
+    <string name="balance_hint">0.00</string>
+    <string name="generate_alert_button">Generate Alert</string>
+    <string name="new_balance_label">New Balance:</string>
+    <string name="notification_channel_name">MobileMoney Alerts</string>
+    <string name="notification_channel_description">Mobile transaction alerts</string>
+</resources>
